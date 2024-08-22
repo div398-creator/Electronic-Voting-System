@@ -1,0 +1,6 @@
+14569b0d-17c0-4b7a-b233-c3c2b839d6a7:Candidate A
+51e24287-8e0b-4733-b6ad-cef7af83ed5a:Candidate B
+d3e079fd-41ad-42c7-89bb-b3fdac382ee8:Candidate A
+6f32c93f-ff1f-418b-9fa2-760255466aa7:Candidate B
+9fd5d783-725c-436c-ae5d-972337f293fa:A
+634ad958-a0e4-4f1f-9e5e-4023c01d8bef:B
